@@ -42,6 +42,9 @@ python MentalHealthDatasetAnalysis.py
 This project was developed by the following students, as part of the Visualization for Data Analytics module under the guidance of Dr. Sangeeta Sangeeta:
 
 Gabriel (@TechAriel)
+
 Thomas (@TomGoold)
+
 Muhammad (@Eddy118)
+
 Utilizing Python for data analysis and Apache Spark (PySpark) for big data tasks, this project showcases the integration of these technologies in analyzing real-world datasets.
