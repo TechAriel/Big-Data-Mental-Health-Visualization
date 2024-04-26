@@ -29,7 +29,7 @@ The dataset encompasses responses from 292,364 individuals across 35 countries, 
 ## Data Preprocessing
 A series of preprocessing steps were applied to optimize the data for analysis, including duplicate removal, missing value imputation, data transformation, and categorical encoding.
 
-![Cleaned Mental Health Dataset](images/Cleaned-Mental-Health-Dataset.png)
+![Cleaned Mental Health Dataset](images/Cleaned Mental Health Dataset.png)
 
 ![Cleaned Mental Health Dataset(Encoded Values)](images/Cleaned Mental Health Dataset(Encoded Values).png)
 
@@ -48,10 +48,10 @@ python MentalHealthDatasetAnalysis.py
 ## Credits
 This project was developed by the following students, as part of the Visualization for Data Analytics module under the guidance of Dr. Sangeeta Sangeeta:
 
-Gabriel (@TechAriel)
+### Gabriel (@TechAriel)
 
-Thomas (@TomGoold)
+### Thomas (@TomGoold)
 
-Muhammad (@Eddy118)
+### Muhammad (@Eddy118)
 
 Utilizing Python for data analysis and Apache Spark (PySpark) for big data tasks, this project showcases the integration of these technologies in analyzing real-world datasets.
