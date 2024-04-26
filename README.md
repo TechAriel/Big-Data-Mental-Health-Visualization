@@ -27,9 +27,8 @@ The dataset encompasses responses from 292,364 individuals across 35 countries, 
 ## Data Preprocessing
 A series of preprocessing steps were applied to optimize the data for analysis, including duplicate removal, missing value imputation, data transformation, and categorical encoding.
 
-![Cleaned Mental Health Dataset]([images/Cleaned-Mental-Health-Dataset.png](https://github.com/TechAriel/mental-health-data-analysis/blob/master/images/Cleaned%20Mental%20Health%20Dataset(Encoded%20Values).png))
-
-![Cleaned Mental Health Dataset(Encoded Values)](images/Cleaned-Mental-Health-Dataset(Encoded-Values))
+![Cleaned Mental Health Dataset](images/CleanedMentalHealthDataset.png)
+![Cleaned Mental Health Dataset(Encoded Values)](images/CleanedMentalHealthDataset(EncodedValues))
 
 ## Data Visualization
 The project features numerous visualizations that explore various aspects of mental health, such as the effects of work interest and family history on treatment seeking. These visualizations aid in understanding the dynamics affecting mental health outcomes across different demographics.
