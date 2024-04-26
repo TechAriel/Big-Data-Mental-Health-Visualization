@@ -41,8 +41,9 @@ This section details the use of big data technologies like PySpark, which provid
 
 ## Usage
 After installation, execute the script to process the data and generate visualizations:
-
+```
 python MentalHealthDatasetAnalysis.py
+```
 
 ## Credits
 This project was developed by the following students, as part of the Visualization for Data Analytics module under the guidance of Dr. Sangeeta Sangeeta:
