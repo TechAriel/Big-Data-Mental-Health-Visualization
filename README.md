@@ -14,16 +14,15 @@ This project, titled "Exploring Mental Health Trends: Insights from Visual Analy
 
 ## Installation
 To run this project locally, clone the repository and install the necessary packages:
-'''
+```
 git clone https://github.com/TechAriel/mental-health-data-analysis.git
-'''
-'''
+```
+```
 cd mental-health-data-analysis
-'''
-'''
+```
+```
 pip install -r requirements.txt
-'''
-
+```
 ## Dataset Description
 The dataset encompasses responses from 292,364 individuals across 35 countries, with a significant number of responses from the United States and the United Kingdom. It includes demographic information and mental health indicators, facilitating an in-depth analysis of mental health trends.
 
