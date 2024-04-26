@@ -16,7 +16,9 @@ This project, titled "Exploring Mental Health Trends: Insights from Visual Analy
 To run this project locally, clone the repository and install the necessary packages:
 
 git clone https://github.com/TechAriel/mental-health-data-analysis.git
+
 cd mental-health-data-analysis
+
 pip install -r requirements.txt
 
 ## Dataset Description
