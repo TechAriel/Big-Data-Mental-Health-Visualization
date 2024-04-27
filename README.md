@@ -29,8 +29,10 @@ The dataset encompasses responses from 292,364 individuals across 35 countries, 
 ## Data Preprocessing
 A series of preprocessing steps were applied to optimize the data for analysis, including duplicate removal, missing value imputation, data transformation, and categorical encoding.
 
+### Cleaned Mental Health Dataset
 ![Cleaned Mental Health Dataset](images/CleanedMentalHealthDataset.png)
 
+### Cleaned Mental Health Dataset(Encoded Values)
 ![Cleaned Mental Health Dataset(Encoded Values)](images/CleanedMentalHealthDataset(EncodedValues).png)
 
 ## Data Visualization
