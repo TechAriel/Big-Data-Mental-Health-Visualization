@@ -71,11 +71,6 @@ The project features numerous visualizations that explore various aspects of men
 ### *Percentage of Treatments by Mood Swings & Social Weakness*
 ![Percentage of Treatments by Mood Swings & Social Weakness](images/PercentageofTreatmentsbyMoodSwings&SocialWeakness.png)
 
-### *Mental Health History by Occupation*
-![Mental Health History by Occupation](images/MentalHealthHistorybyOccupation.png)
-
-### *Percentage of Treatments by Mental Health History*
-![Percentage of Treatments by Mental Health History](images/PercentageofTreatmentsbyMentalHealthHistory.png)
 
 
 
