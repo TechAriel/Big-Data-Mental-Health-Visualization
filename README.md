@@ -56,9 +56,6 @@ The project features numerous visualizations that explore various aspects of men
 ### *Growing Stress with Self Employment*
 ![Growing Stress with Self Employment](images/GrowingStresswithSelfEmployment.png)
 
-### *Impact of Family History on Mental Health Outcomes*
-![Impact of Family History on Mental Health Outcomes](images/ImpactofFamilyHistoryonMentalHealthOutcomes.png)
-
 ### *Mental Health History by Occupation*
 ![Mental Health History by Occupation](images/MentalHealthHistorybyOccupation.png)
 
@@ -71,7 +68,7 @@ The project features numerous visualizations that explore various aspects of men
 ### *Percentage of Treatments by Country*
 ![Percentage of Treatments by Country](images/PercentageofTreatmentsbyCountry.png)
 
-### *PercentageofTreatmentsbyMentalHealthHistory*
+### *Percentage of Treatments by Mental Health History*
 ![Percentage of Treatments by Mental Health History](images/PercentageofTreatmentsbyMentalHealthHistory.png)
 
 ### *Time Spent Indoors per Season*
