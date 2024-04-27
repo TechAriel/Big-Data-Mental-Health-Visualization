@@ -31,7 +31,7 @@ A series of preprocessing steps were applied to optimize the data for analysis, 
 
 ![Cleaned Mental Health Dataset](images/CleanedMentalHealthDataset.png)
 
-![Cleaned Mental Health Dataset(Encoded Values)](images/Cleaned Mental Health Dataset(Encoded Values).png)
+![Cleaned Mental Health Dataset(Encoded Values)](images/CleanedMentalHealthDataset(EncodedValues).png)
 
 ## Data Visualization
 The project features numerous visualizations that explore various aspects of mental health, such as the effects of work interest and family history on treatment seeking. These visualizations aid in understanding the dynamics affecting mental health outcomes across different demographics.
