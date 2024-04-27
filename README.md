@@ -29,34 +29,59 @@ The dataset encompasses responses from 292,364 individuals across 35 countries, 
 ## Data Preprocessing
 A series of preprocessing steps were applied to optimize the data for analysis, including duplicate removal, missing value imputation, data transformation, and categorical encoding.
 
-### Cleaned Mental Health Dataset
+### 1. Cleaned Mental Health Dataset
 ![Cleaned Mental Health Dataset](images/CleanedMentalHealthDataset.png)
 
-### Cleaned Mental Health Dataset(Encoded Values)
+### 2. Cleaned Mental Health Dataset(Encoded Values)
 ![Cleaned Mental Health Dataset(Encoded Values)](images/CleanedMentalHealthDataset(EncodedValues).png)
 
 ## Data Visualization
 The project features numerous visualizations that explore various aspects of mental health, such as the effects of work interest and family history on treatment seeking. These visualizations aid in understanding the dynamics affecting mental health outcomes across different demographics.
 
-### Impact of Family Historyon Mental Health Outcomes
+### *Impact of Family History on Mental Health Outcomes*
 ![Impact of Family History on Mental Health Outcomes](images/ImpactofFamilyHistoryonMentalHealthOutcomes.png)
-DaysIndoorsvsMentalHealthOutcomes.png
-DaysIndoorsvsMentalHealthOutcomes1.png
-Employee'sJobInterestperSector.png
-GenderDifferencesinSeekingTreatment.png
-GenderDistributionAnalysisbyOccupationusingPySpark.png
-GrowingStresswithSelfEmployment.png
-ImpactofFamilyHistoryonMentalHealthOutcomes.png
-MentalHealthDatasetAnalysis.py
-MentalHealthHistorybyOccupation.png
-Percentage ofTreatmentsbyMoodSwings&SocialWeakness.png
-PercentageofRespondentsbyMentalHealthHistoryCategory.png
-PercentageofTreatmentsbyCountry.png
-PercentageofTreatmentsbyMentalHealthHistory.png
-TimeSpentIndoorsperSeason.png
+
+### *Days Indoors vs Mental Health Outcomes*
+![Days Indoors vs Mental Health Outcomes](images/DaysIndoorsvsMentalHealthOutcomes.png)
+
+### *Days Indoors vs Mental Health Outcomes*
+![Days Indoors vs Mental Health Outcomes](images/DaysIndoorsvsMentalHealthOutcomes1.png)
+
+### *Employee's Job Interest per Sector*
+![Employee's Job Interest per Sector](images/Employee'sJobInterestperSector.png)
+
+### *Gender Differences in Seeking Treatment*
+![Gender Differences in Seeking Treatment](images/GenderDifferencesinSeekingTreatment.png)
+
+### *Growing Stress with Self Employment*
+![Growing Stress with Self Employment](images/GrowingStresswithSelfEmployment.png)
+
+### *Impact of Family History on Mental Health Outcomes*
+![Impact of Family History on Mental Health Outcomes](images/ImpactofFamilyHistoryonMentalHealthOutcomes.png)
+
+### *Mental Health History by Occupation*
+![Mental Health History by Occupation](images/MentalHealthHistorybyOccupation.png)
+
+### *Percentage of Treatments by Mood Swings & Social Weakness*
+![Percentage of Treatments by Mood Swings & Social Weakness](images/PercentageofTreatmentsbyMoodSwings&SocialWeakness.png)
+
+### *Percentage of Respondents by Mental Health History Category*
+![Percentage of Respondents by Mental Health History Category](images/PercentageofRespondentsbyMentalHealthHistoryCategory.png)
+
+### *Percentage of Treatments by Country*
+![Percentage of Treatments by Country](images/PercentageofTreatmentsbyCountry.png)
+
+### *PercentageofTreatmentsbyMentalHealthHistory*
+![Percentage of Treatments by Mental Health History](images/PercentageofTreatmentsbyMentalHealthHistory.png)
+
+### *Time Spent Indoors per Season*
+![Time Spent Indoors per Season.png](images/TimeSpentIndoorsperSeason.png)
 
 ## Big Data Analysis Techniques
 This section details the use of big data technologies like PySpark, which provided the infrastructure for handling and analyzing the large-scale dataset. The experience and insights gained from using these technologies are documented here.
+
+### *Gender Distribution Analysis by Occupation using PySpark*
+![Gender Distribution Analysis by Occupation using PySpark](images/GenderDistributionAnalysisbyOccupationusingPySpark.png)
 
 ## Usage
 After installation, execute the script to process the data and generate visualizations:
