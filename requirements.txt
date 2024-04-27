@@ -1,0 +1,13 @@
+Pandas
+
+Matplotlib
+
+Seaborn
+
+Numpy
+
+Scipy
+
+Plotly
+
+pyspark
