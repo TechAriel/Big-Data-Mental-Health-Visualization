@@ -96,6 +96,7 @@ This section details the use of big data technologies like PySpark, which provid
 ### *Gender Distribution Analysis by Occupation using PySpark*
 ![Gender Distribution Analysis by Occupation using PySpark](images/GenderDistributionAnalysisbyOccupationusingPySpark.png)
 
+
 ## Usage
 After installation, execute the script to process the data and generate visualizations:
 ```
