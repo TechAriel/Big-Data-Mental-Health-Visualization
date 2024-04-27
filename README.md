@@ -38,6 +38,23 @@ A series of preprocessing steps were applied to optimize the data for analysis, 
 ## Data Visualization
 The project features numerous visualizations that explore various aspects of mental health, such as the effects of work interest and family history on treatment seeking. These visualizations aid in understanding the dynamics affecting mental health outcomes across different demographics.
 
+### Impact of Family Historyon Mental Health Outcomes
+![Impact of Family History on Mental Health Outcomes](images/ImpactofFamilyHistoryonMentalHealthOutcomes.png)
+DaysIndoorsvsMentalHealthOutcomes.png
+DaysIndoorsvsMentalHealthOutcomes1.png
+Employee'sJobInterestperSector.png
+GenderDifferencesinSeekingTreatment.png
+GenderDistributionAnalysisbyOccupationusingPySpark.png
+GrowingStresswithSelfEmployment.png
+ImpactofFamilyHistoryonMentalHealthOutcomes.png
+MentalHealthDatasetAnalysis.py
+MentalHealthHistorybyOccupation.png
+Percentage ofTreatmentsbyMoodSwings&SocialWeakness.png
+PercentageofRespondentsbyMentalHealthHistoryCategory.png
+PercentageofTreatmentsbyCountry.png
+PercentageofTreatmentsbyMentalHealthHistory.png
+TimeSpentIndoorsperSeason.png
+
 ## Big Data Analysis Techniques
 This section details the use of big data technologies like PySpark, which provided the infrastructure for handling and analyzing the large-scale dataset. The experience and insights gained from using these technologies are documented here.
 
