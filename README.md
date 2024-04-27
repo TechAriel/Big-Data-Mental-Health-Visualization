@@ -1,4 +1,4 @@
-# Mental Health Data Analysis Project
+# Mental Health Data Analysis Project (CSC-40048)
 
 ## Project Description
 This project, titled "Exploring Mental Health Trends: Insights from Visual Analysis and Big Data Techniques," is conducted as part of the Visualization for Data Analytics module. It aims to explore the intricate relationships within a large mental health dataset, focusing on treatment-seeking behavior, work interest, and the impact of family history on mental health. Through a combination of Python for data cleaning and exploratory data analysis and PySpark for big data handling, this research provides robust visualizations and big data analysis to inform better mental health strategies.
