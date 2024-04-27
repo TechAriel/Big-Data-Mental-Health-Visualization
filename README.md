@@ -28,7 +28,8 @@ pip install -r requirements.txt
 
 
 ## Dataset Description
-The dataset encompasses responses from 292,364 individuals across 35 countries, with a significant number of responses from the United States and the United Kingdom. It includes demographic information and mental health indicators, facilitating an in-depth analysis of mental health trends.
+The dataset encompasses responses from 292,364 individuals across 35 countries, with a significant number of responses from the United States and the United Kingdom. It includes demographic information and mental health indicators, facilitating an in-depth analysis of mental health trends. 
+Note: Due to the large size of the dataset, it has been uploaded under “Releases” as; Release tag: “Mental Health Dataset” Dataset: “Mental.Health.Dataset.csv”
 
 
 
